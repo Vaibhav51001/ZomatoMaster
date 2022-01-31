@@ -1,7 +1,7 @@
-server/.env
-.env
-*.env
-server/.env
+# server/.env
+# # .env
+# *.env
+# server/.env
 check.txt
 Readme.txt
 client_secret_221350151662-f6c5jjebb1ak9fqe3ev6jkbi3cd30jcj.apps.googleusercontent.com.json
